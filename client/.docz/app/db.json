@@ -1,0 +1,223 @@
+{
+  "config": {
+    "title": "Widgets",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "docs.mdx",
+      "value": {
+        "name": "Documentation",
+        "route": "/",
+        "menu": "Documents",
+        "fullpage": true,
+        "id": "25053fa47ba195f3649324c83228a7dd",
+        "filepath": "docs.mdx",
+        "fullpath": "D:\\PingPong\\pingPongApp\\client\\docs.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "docs",
+        "headings": [
+          {
+            "slug": "documentation",
+            "depth": 1,
+            "value": "Documentation"
+          },
+          {
+            "slug": "appjs",
+            "depth": 2,
+            "value": "App.js"
+          },
+          {
+            "slug": "states-in-appjs",
+            "depth": 3,
+            "value": "States in App.js:"
+          },
+          {
+            "slug": "registrationjs",
+            "depth": 2,
+            "value": "Registration.js"
+          },
+          {
+            "slug": "props-in-registrationjs",
+            "depth": 3,
+            "value": "Props in Registration.js"
+          },
+          {
+            "slug": "functions-in-registrationjs",
+            "depth": 3,
+            "value": "Functions in Registration.js"
+          },
+          {
+            "slug": "gameplayjs",
+            "depth": 2,
+            "value": "GamePlay.js"
+          },
+          {
+            "slug": "states-in-gameplayjs",
+            "depth": 3,
+            "value": "States in GamePlay.js:"
+          },
+          {
+            "slug": "props-in-gameplayjs",
+            "depth": 3,
+            "value": "Props in GamePlay.js:"
+          },
+          {
+            "slug": "functions-in-gameplayjs",
+            "depth": 3,
+            "value": "Functions in GamePlay.js:"
+          },
+          {
+            "slug": "leaderboardjs",
+            "depth": 2,
+            "value": "LeaderBoard.js"
+          },
+          {
+            "slug": "states-in-leaderboardjs",
+            "depth": 3,
+            "value": "States in LeaderBoard.js:"
+          },
+          {
+            "slug": "functions-in-leaderboardjs",
+            "depth": 3,
+            "value": "Functions in LeaderBoard.js:"
+          }
+        ]
+      }
+    },
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "D:\\PingPong\\pingPongApp\\client\\README.md",
+        "link": "",
+        "hidden": false,
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "getting-started-with-create-react-app",
+            "depth": 1,
+            "value": "Getting Started with Create React App"
+          },
+          {
+            "slug": "available-scripts",
+            "depth": 2,
+            "value": "Available Scripts"
+          },
+          {
+            "slug": "npm-start",
+            "depth": 3,
+            "value": "npm start"
+          },
+          {
+            "slug": "npm-test",
+            "depth": 3,
+            "value": "npm test"
+          },
+          {
+            "slug": "npm-run-build",
+            "depth": 3,
+            "value": "npm run build"
+          },
+          {
+            "slug": "npm-run-eject",
+            "depth": 3,
+            "value": "npm run eject"
+          },
+          {
+            "slug": "learn-more",
+            "depth": 2,
+            "value": "Learn More"
+          },
+          {
+            "slug": "code-splitting",
+            "depth": 3,
+            "value": "Code Splitting"
+          },
+          {
+            "slug": "analyzing-the-bundle-size",
+            "depth": 3,
+            "value": "Analyzing the Bundle Size"
+          },
+          {
+            "slug": "making-a-progressive-web-app",
+            "depth": 3,
+            "value": "Making a Progressive Web App"
+          },
+          {
+            "slug": "advanced-configuration",
+            "depth": 3,
+            "value": "Advanced Configuration"
+          },
+          {
+            "slug": "deployment",
+            "depth": 3,
+            "value": "Deployment"
+          },
+          {
+            "slug": "npm-run-build-fails-to-minify",
+            "depth": 3,
+            "value": "npm run build  fails to minify"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/components/App.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "App",
+          "methods": [],
+          "actualName": "App"
+        }
+      ]
+    },
+    {
+      "key": "src/components/GamePlay.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "GamePlay",
+          "methods": [],
+          "actualName": "GamePlay"
+        }
+      ]
+    },
+    {
+      "key": "src/components/LeaderBoard.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "LeaderBoard",
+          "methods": [],
+          "actualName": "LeaderBoard"
+        }
+      ]
+    },
+    {
+      "key": "src/components/Registration.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Registration",
+          "methods": [],
+          "actualName": "Registration"
+        }
+      ]
+    }
+  ]
+}

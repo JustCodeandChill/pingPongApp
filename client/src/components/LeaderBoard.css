@@ -1,0 +1,20 @@
+.bdr {
+    border: 2px solid #8f8c8c;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.name {
+    font-weight: 600;
+}
+
+.wins, .avs {
+    color: green;
+    font-weight: 600;
+}
+
+.ranking {
+    color: red;
+    font-weight: 600;
+}
