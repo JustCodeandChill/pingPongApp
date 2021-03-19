@@ -1,6 +1,6 @@
 # pingPongApp
 
-### Description:
+## Description:
 This app is a demo version of a Ping Pong score tracking application. 
 This app has the abilities of:
 - letting people register name for competition
@@ -9,21 +9,16 @@ This app has the abilities of:
 - Terminating game or continuing game
 - Ranking people by their performance
 
-### Installation:
+## Installation:
 Please make sure your local computer has installed Node.js environment. If not, download it here: https://nodejs.org/en/download/ . Please clone the github repo, after that go in "client" folder and run "npm install" with your terminal, go in "server" folder and run "npm install" with your terminal. 
 
-### Running:
+## Running:
 In "client" folder, with your terminal run "npm start". In "server" folder,  with your terminal run "npm run dev".
 
-### Documentation:
----
-name: Documentation
-route: /
-menu: Documents
-fullpage: true
----
+## Running Documentation Live:
+In "client" folder, with your terminal run "npm run docz:dev"
 
-# Documentation
+## Documentation
 
 There are 4 components in this application, the App.js component,
 the Registration component, the GamePlay.js component and the LeaderBoard.js component. Each has its own functionalities
@@ -151,5 +146,5 @@ When invoked, using passConditionsForWinner function result, to update the recor
 Ranking the players based on their statistic. Return the list of players visually
 
 
-### Author:
+## Author:
 This is the first version created by Bao Tran
